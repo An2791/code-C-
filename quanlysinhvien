@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+COPY DÁN vào đi e an ơi
 
 struct SV{
 	string maSo, ten, Lop, ngaySinh, diemRenLuyen;
